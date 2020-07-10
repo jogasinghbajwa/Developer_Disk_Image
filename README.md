@@ -10,5 +10,7 @@ When your apple device got upgraded to new OS, the current XCode version you hav
 
 # Where to put the new disk images?
 iOS: /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/DeviceSupport
+
 tvOS: /Applications/Xcode.app/Contents/Developer/Platforms/AppletvOS.platform/DeviceSupport
+
 watchOS: /Applications/Xcode.app/Contents/Developer/Platforms/WatchOS.platform/DeviceSupport
